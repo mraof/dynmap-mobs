@@ -110,6 +110,14 @@ mobs:
   goat: false
   snake: false
   ostrich: false
+  minestuckImp: false
+  minestuckOgre: false
+  minestuckGiclops: false
+  minestuckBasilisk: false
+  prospitianPawn: false
+  prospitianBishop: false
+  dersitePawn: false
+  dersiteBishop: false
 
 vehicles:
   # Specific minecart types

@@ -150,6 +150,18 @@ public class DynmapMobsPlugin extends JavaPlugin {
             new MobMapping("goat", "org.bukkit.entity.Animals", "Goat", "net.minecraft.server.MoCEntityGoat"),
             new MobMapping("snake", "org.bukkit.entity.Animals", "Snake", "net.minecraft.server.MoCEntitySnake"),
             new MobMapping("ostrich", "org.bukkit.entity.Animals", "Ostrich", "net.minecraft.server.MoCEntityOstrich"),
+            //Minestuck
+            new MobMapping("minestuckImp", "org.bukkit.entity.Monster", "Imp", "com.mraof.minestuck.entity.underling.EntityImp"),
+            new MobMapping("minestuckOgre", "org.bukkit.entity.Monster", "Ogre", "com.mraof.minestuck.entity.underling.EntityOgre"),
+            new MobMapping("minestuckGiclops", "org.bukkit.entity.Monster", "Giclops", "com.mraof.minestuck.entity.underling.EntityGiclops"),
+            new MobMapping("minestuckBasilisk", "org.bukkit.entity.Monster", "Basilisk", "com.mraof.minestuck.entity.underling.EntityBasilisk"),
+            new MobMapping("prospitianPawn", "org.bukkit.entity.Monster", "Prospitian Pawn", "com.mraof.minestuck.entity.carapacian.EntityWhitePawn"),
+            new MobMapping("dersitePawn", "org.bukkit.entity.Monster", "Dersite Pawn", "com.mraof.minestuck.entity.carapacian.EntityBlackPawn"),
+            new MobMapping("prospitianBishop", "org.bukkit.entity.Monster", "Prospitian Bishop", "com.mraof.minestuck.entity.carapacian.EntityWhiteBishop"),
+            new MobMapping("dersiteBishop", "org.bukkit.entity.Monster", "Dersite Bishop", "com.mraof.minestuck.entity.carapacian.EntityBlackBishop"),
+            new MobMapping("consortSalamander", "org.bukkit.entity.Animals", "Salamander", "com.mraof.minestuck.entity.consort.EntitySalamander"),
+            new MobMapping("consortNakagator", "org.bukkit.entity.Animals", "Nakagator", "com.mraof.minestuck.entity.consort.EntityNakagator"),
+            new MobMapping("consortIguana", "org.bukkit.entity.Animals", "Iguana", "com.mraof.minestuck.entity.consort.EntityIguana"),
             // Standard
             new MobMapping("bat", "org.bukkit.entity.Bat", "Bat"),
             new MobMapping("witch", "org.bukkit.entity.Witch", "Witch"),
